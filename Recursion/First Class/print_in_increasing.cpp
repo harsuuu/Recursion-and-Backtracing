@@ -20,7 +20,7 @@ int n;
 cout<<"Enter the value of n :";
 cin>>n;
 
-cout<<"Printing in decreasing order "<<endl;
+cout<<"Printing in increasing order "<<endl;
 
 Decreasing(n);    //function call
 return 0;
